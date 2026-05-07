@@ -12,13 +12,14 @@ L'identité n'est plus une idée, mais une série de mesures et de scans systém
 
     L'Identité "Hôpital" : Le soin (réel ou fictif) devient une forme d'analyse de données pour "se connaître".
 
-🛠️ Le Backstage et les Paramètres (L'envers du décor)
 
-Le projet compare la vie sociale à du développement web (type Ruby on Rails) :
+🤫 L'Exclusivité "Backstage"
 
-    Front-End : Ce que l'on voit sur un profil Facebook ou une photo. La surface lisse et parfaite.
+Contrairement à la foule, les "stars" bénéficient d'un accès spécial à l'information :
 
-    Backstage (Paramétrage) : Les discussions privées pour "ajuster les paramètres" d'une situation. Certaines personnes ont le privilège d'accéder aux coulisses pour régler la réalité avant qu'elle ne soit exposée.
+    Secrets de Coulisses : On confie aux stars des faits insolites et des secrets que le grand public ignore.
+
+    Ajustement de Réalité : Cet accès permet de comprendre et de régler les "paramètres" d'une situation (comme sur Rails) avant qu'elle ne soit affichée en Front-End (profil Facebook, photos).
 
 🎓 Le CV du Futur et le "Négatif"
 
@@ -26,7 +27,7 @@ Le projet compare la vie sociale à du développement web (type Ruby on Rails) :
 
     Le Métier Négatif : Arriver au bout d'une expérience permet de voir la vie à travers le "négatif" (comme une photo) du métier d'un autre, offrant une perspective inversée sur la ville et la société.
 
-🎤 L'Horizon de Vie : Le Concert Permanent
+🎤  Le Concert 
 
 Le but ultime est la réussite visuelle et sociale :
 
@@ -34,7 +35,7 @@ Le but ultime est la réussite visuelle et sociale :
 
     Validation : Accumuler les abonnés et transformer sa vie en une image iconique, comme les plus beaux endroits d'une ville.
 
-    Destinée : Atteindre cet "horizon" où la réussite est enfin figée et visible par tous.
+    Destinée : Atteindre ce moment où la réussite est enfin figée et visible par tous.
 
     En résumé : Une réflexion sur la manière dont nous traitons notre propre vie comme une application mobile que l'on scanne, paramètre et expose pour atteindre un idéal de célébrité numérique.
 # congenial-social-media
