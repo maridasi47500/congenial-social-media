@@ -1,3 +1,11 @@
+- une page par personne avec limage entiere (le scan entier du corps)
+- et du visage
+- le son que tu veuuw entendre par dessus le son dune noule de crystal (instruments de musique)
+- questions (secrete ou non secrete) que tu veux poser/remonses que tu veux avoir
+- lié a un evenement important a venir
+- concert, evenement important
+
+
 Voici un résumé structuré et clair de ton README GitHub, qui semble traiter de la numérisation de l'identité et de la mise en scène de soi :
 👤 L'Identité Numérisée : Entre Scan et Performance
 
